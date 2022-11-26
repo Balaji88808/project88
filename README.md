@@ -1,4 +1,4 @@
-readme file according to their project and insdustry.
+
 
 # ✨  GLORY LUXE ✨
 
