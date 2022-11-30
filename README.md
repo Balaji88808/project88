@@ -25,20 +25,19 @@ This is a web based application developed for health related based website in in
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
-https://photos.app.goo.gl/uv27GgxAcdtNWFDZ8
+
 
 ### About Us -
-https://photos.app.goo.gl/WV1qjdamJM2zy64C7
+
 
 ### Services -
-https://photos.app.goo.gl/JFUghHxGT7a66k636
+
 
 ### Contact us -
-https://photos.app.goo.gl/Fa3oV5g59UdTRxy59
+
 
 ### health bot
-https://photos.app.goo.gl/h96WwC6ca9TAC3f58
-https://photos.app.goo.gl/AzMuJRN8XCZ4DSVVA
+
 
 ## Tech Stack 💻
 
